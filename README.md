@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DillanAS
 - 👀 I’m interested in data science, machine learning and blockchain
-- 🌱 I’m currently learning Solidy and mastering my Python skills
+- 🌱 I’m currently learning Solidity and mastering my Python skills
 - 💞️ I’m looking to collaborate on any kind of data science project
 - 📫 How to reach me: On TW as @dillan_as22 or on Linkedin as /dillanas22
 
